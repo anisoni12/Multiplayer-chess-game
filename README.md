@@ -1,11 +1,11 @@
 # Real-Time Multiplayer Chess Game
 
-🎮 **[Live Demo](chess-frontend-lwrtei476-anish-sonis-projects.vercel.app)** | 📂 **[GitHub](https://github.com/anisoni12/Multiplayer-chess-game)**
+🎮 **[Play Live Demo](https://chess-frontend-navy.vercel.app)** | 📂 **[View Code](https://github.com/anisoni12/Multiplayer-chess-game)**
 
 A full-stack real-time chess application built with React, TypeScript, Node.js, and Socket.io.
 
-## 🚀 Deployed On
-- **Frontend:** Vercel
+## 🚀 Live Deployment
+- **Frontend:** [https://chess-frontend-navy.vercel.app](https://chess-frontend-navy.vercel.app)
 - **Backend:** Railway
 
 ## Features

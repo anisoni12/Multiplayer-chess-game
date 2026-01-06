@@ -6,7 +6,8 @@ A full-stack real-time chess application built with React, TypeScript, Node.js, 
 
 ## 🚀 Live Deployment
 - **Frontend:** [https://chess-frontend-navy.vercel.app](https://chess-frontend-navy.vercel.app)
-- **Backend:** Railway
+- **Backend:** [Render](https://chess-backend-0mm0.onrender.com  
+(WebSocket: wss://chess-backend-0mm0.onrender.com))
 
 ## Features
 - Real-time multiplayer gameplay

@@ -1,14 +1,22 @@
-# Real-Time Multiplayer Chess Game
+# ♟️ Real-Time Multiplayer Chess Game
 
-🎮 **[Play Live Demo](https://chess-frontend-psi-blue.vercel.app/)** | 📂 **[View Code] Frontend : (https://github.com/anisoni12/chess-frontend.git)(https://github.com/anisoni12/chess-backend.git)**
-  
-A full-stack real-time chess application built with React, TypeScript, Node.js, and Socket.io.
+🎮 **[Play Live Demo](https://chess-frontend-psi-blue.vercel.app/)**  
+📂 **View Code:**  
+- **Frontend:** https://github.com/anisoni12/chess-frontend  
+- **Backend:** https://github.com/anisoni12/chess-backend  
+
+A full-stack real-time multiplayer chess application built using **React**, **TypeScript**, **Node.js**, and **Socket.IO**, enabling live gameplay through WebSocket-based communication.
+
+---
 
 ## 🚀 Live Deployment
-- **Frontend:** (https://chess-frontend-psi-blue.vercel.app/)
-- **Backend:** [Render](https://chess-backend-0mm0.onrender.com  
-(WebSocket: wss://chess-backend-0mm0.onrender.com))
 
+- **Frontend (Vercel):**  
+  https://chess-frontend-psi-blue.vercel.app/
+
+- **Backend (Render):**  
+  https://chess-backend-0mm0.onrender.com  
+  **WebSocket Endpoint:** `wss://chess-backend-0mm0.onrender.com`
 ## Features
 - Real-time multiplayer gameplay
 - Live game synchronization using WebSockets
